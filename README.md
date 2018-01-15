@@ -16,7 +16,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 | **52**<br>25.12.-<br>31.12. |  |  |  | **Ohjaus**<br>13-15<br>Yläpaja | **DL 2**<br>29.12.<br>23:59 |  |  |
 | **1**<br>1.1.-<br>7.1. |  |  | **Ohjaus**<br>13-15<br>Yläpaja | **DL 3**<br>4.1.<br>23:59 |  |  |  |
 | **2**<br>8.1.-<br>14.1. | **Ohjaus**<br>13-15<br>Yläpaja | **DL 4**<br>9.1.<br>23:59 |  |  | **Ohjaus**<br>13-15<br>Yläpaja |  | **DL 5**<br>14.12.<br>23:59 |
-| **3**<br>15.1.-<br>21.1. |  |  |  |  |  |  | **Loppupalautus**<br>21.1.<br>23:59 |
+| **3**<br>15.1.-<br>21.1. |  |  | **DEMO**<br>14-16<br>B119 |  | **Ohjaus**<br>15-19<br>Yläpaja |  | **Loppupalautus**<br>21.1.<br>23:59 |
 
 * **HUOM!** **Paja-ajat ja luokat saattavat muuttua kurssin aikana.**
 
